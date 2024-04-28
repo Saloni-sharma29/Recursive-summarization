@@ -1,5 +1,6 @@
 # Recursive-summarization
 The dataset for our study was obtained from the [Repository](https://zenodo.org/records/7152317#.Yz6mJ9JByC0) 
+We have provided proper attribution and citation to the authors for creating this repository.
 
 
 Credit:
