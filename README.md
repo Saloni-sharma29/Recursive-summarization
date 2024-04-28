@@ -1,6 +1,6 @@
 # Recursive-summarization
-The dataset for our study was obtained from the [Repository](https://zenodo.org/records/7152317#.Yz6mJ9JByC0) 
-We have provided proper attribution and citation to the authors for creating this repository.
+The dataset for our study was obtained from the [Repository](https://zenodo.org/records/7152317#.Yz6mJ9JByC0), which is a publicly accessible repository.
+We have provided proper attribution and citation to the authors for creating this repository. We used this repository only for research and study purposes.
 
 
 Credit:
